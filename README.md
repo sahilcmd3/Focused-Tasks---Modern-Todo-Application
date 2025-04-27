@@ -8,7 +8,7 @@ A sleek, dark-themed task management application built with PyQt6 that adapts to
 ![Screenshot 2025-04-27 235437](https://github.com/user-attachments/assets/8cd1f388-8f78-4f02-8e2e-af21fa44f458)
 
 ## Not Focused
-![Screenshot 2025-04-27 235444](https://github.com/user-attachments/assets/6081352f-fe27-4653-add3-0844d6d9ebdd)
+![Screenshot 2025-04-28 000034](https://github.com/user-attachments/assets/f1ca55c8-b128-480a-8265-56f34bdb33c7)
 
 
 
